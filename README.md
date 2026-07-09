@@ -8,5 +8,5 @@ municipality_agent/
 ├── .env.example         ← .env にコピーしてAPIキーを設定  
 ├── data/input_sample.csv ← 動作確認用サンプル(3件)  
 └── output/               ← 実行すると自動生成される  
-    ├── summary.csv  
-    └── texts/{都道府県_市区町村}.txt  
+     ├── summary.csv  
+     └── texts/{都道府県_市区町村}.txt  
